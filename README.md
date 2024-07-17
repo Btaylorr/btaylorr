@@ -20,7 +20,7 @@ I recently completed a Data Science Fundamentals bootcamp with HyperionDev, wher
 - **Technologies**: Data Analysis, Data Cleaning, File Management
 
 ## Contact Information
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/billy-taylor-)
+- **LinkedIn**: [www.linkedin.com/in/billy-taylor-](www.linkedin.com/in/billy-taylor-)
 - **Email**: [billcktaylor@gmail.com](mailto:billcktaylor@gmail.com)
 
 ## Fun Fact

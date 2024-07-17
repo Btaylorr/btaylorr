@@ -20,8 +20,8 @@ I recently completed a Data Science Fundamentals bootcamp with HyperionDev, wher
 - **Technologies**: Data Analysis, Data Cleaning, File Management
 
 ## Contact Information
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/billy-taylor-)
+- **Email**: [billcktaylor@gmail.com](mailto:billcktaylor@gmail.com)
 
 ## Fun Fact
 I have never lost a dance-off in my life.

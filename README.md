@@ -1,6 +1,6 @@
 
 # B Taylor - Aspriring Tech Professional
-<img src="https://github.com/Btaylorr/btaylorr/assets/![image](https://github.com/user-attachments/assets/https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg)
+<img src="https://github.com/Btaylorr/btaylorr/assets/[![image](https://github.com/user-attachments/assets/https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg](https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg?raw=true))
 " width="200" height="200">
 
 ## Where I'm at in my tech career so far...

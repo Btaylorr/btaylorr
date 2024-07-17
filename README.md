@@ -1,6 +1,6 @@
-# B Taylor - Data Science Enthusiast
+# B Taylor - Data Science Enthusiast <img src="https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg?raw=true" width="100" height="100">
 
-<img src="https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg?raw=true" width="200" height="200">
+
 
 ## About Me
 Transitioning from a rewarding career in Social Care Operations Management to the dynamic field of Data Science, I bring a unique blend of problem-solving, analytical, and interpersonal skills. My extensive experience working with young people from diverse backgrounds (disadvantaged, special needs, asylum seekers, mental health, addiction) has equipped me with valuable insights and a strong drive to make a positive impact through data.

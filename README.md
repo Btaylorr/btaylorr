@@ -1,6 +1,7 @@
 
 # B Taylor - Aspriring Tech Professional
-<img src="https://github.com/Btaylorr/btaylorr/assets/164377624/4493b76c-240e-4682-9e4a-e1bb415b7685" width="200" height="200">
+<img src="https://github.com/Btaylorr/btaylorr/assets/![image](https://github.com/user-attachments/assets/43407e20-9ddf-4dcf-804e-4968a51d49fd)
+" width="200" height="200">
 
 ## Where I'm at in my tech career so far...
 - 🔭 I’m currently working on a **Data Science Fundamentals Bootcamp** with CoGrammar.

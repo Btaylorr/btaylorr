@@ -17,7 +17,7 @@ I recently completed a Data Science Fundamentals bootcamp with HyperionDev, wher
 ## Skills
 - **Languages**: Python, SQL
 - **Tools**: VSCode, GitHub
-- **Technologies**: Data Analysis, Data Cleaning, File Management
+- **Technologies**: Data Analysis, Data Cleaning, Data Visualisation
 
 ## Contact Information
 - **LinkedIn**: [www.linkedin.com/in/billy-taylor-](www.linkedin.com/in/billy-taylor-)

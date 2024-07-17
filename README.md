@@ -1,4 +1,4 @@
-# <img src="https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg?raw=true" width="100" height="100"> B Taylor - Data Science Enthusiast 
+# <img src="https://github.com/Btaylorr/btaylorr/blob/main/assets/Headshot.jpg?raw=true" width="50" height="50"> B Taylor - Data Science Enthusiast 
 
 
 
